@@ -127,9 +127,9 @@ const Footer = () => {
           <p>
             © {new Date().getFullYear()}{" "}
             <span className="font-medium text-gray-700">
-              Arfa Arbeen
+             Kashmir-Careers — Empowering careers, one job at a time.
             </span>{" "}
-            | All rights reserved
+            |Designed & Developed by <a href="www.linkedin.com/in/syedmuzamilqadri" target="_blank">Syed Muzamil Qadri</a>
           </p>
           <div className="flex gap-4">
             <motion.a whileHover={{ scale: 1.2 }} href="#">
