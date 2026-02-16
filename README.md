@@ -7,7 +7,7 @@ This project allows users to browse job listings, search jobs, and explore detai
 
 ## 🚀 Live Demo
 
-🔗 [https://your-live-link-here.netlify.app  ](https://kashmir-careers.netlify.app/)
+🔗(https://kashmir-careers.netlify.app/)
 
 
 ---
